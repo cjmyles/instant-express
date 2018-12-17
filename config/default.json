@@ -1,0 +1,8 @@
+{
+  "server": {
+    "routes": {
+      "base": "api",
+      "path": "routes"
+    }
+  }
+}
