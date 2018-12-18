@@ -1,7 +1,7 @@
 {
   "name": "instant-express",
   "version": "1.0.0",
-  "description": "Express boilerplate bundled with API routing, enabling the quick development and deployment of applications on the Firebase platform.",
+  "description": "Express boilerplate bundled with API routing, enabling the rapid development and deployment of applications on the Firebase platform.",
   "scripts": {
     "lint": "eslint .",
     "serve": "firebase serve --only functions,hosting",

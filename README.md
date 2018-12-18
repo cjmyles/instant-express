@@ -1,6 +1,6 @@
 # Instant Express
 
-Express boilerplate bundled with API routing, enabling the quick development and deployment of applications on the Firebase platform.
+Express boilerplate bundled with API routing, enabling the rapid development and deployment of applications on the Firebase platform.
 
 ## Table of Contents
 
