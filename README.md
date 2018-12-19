@@ -1,6 +1,6 @@
 # Instant Express
 
-Express boilerplate bundled with API routing, enabling the rapid development and deployment of applications on the Firebase platform.
+Express boilerplate bundled with authentication, routing, CORS, logging, sessions, API model-mapping and more. Integrates seemlessly with the [Firebase](https://firebase.google.com/) platform to enable services such as [Firebase Admin](https://firebase.google.com/docs/reference/admin/), [Firebase Authentication](https://firebase.google.com/docs/auth/), [Cloud Firestore](https://firebase.google.com/docs/firestore/), [Cloud Storage](https://firebase.google.com/docs/storage/) and [Firebase Functions](https://firebase.google.com/docs/functions/).
 
 ## Table of Contents
 
